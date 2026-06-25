@@ -1,4 +1,3 @@
-# Feedforward_Feedback_DeNovoLearning
 Feedforward-Feedback dynamic shapes de novo motor learning
 ============================================================
 This folder contains a cleaned MATLAB simulation of 2D tracking during baseline, mirror-reversal learning, and washout.
